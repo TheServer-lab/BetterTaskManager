@@ -1,1 +1,1 @@
-pip install psutil PyQt5 pyqtgraph
+pip install psutil PyQt5 pyqtgraph pynvml pandas
